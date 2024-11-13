@@ -8,6 +8,6 @@ public class Employee {
     }
 
     public void printInfo(){
-        System.out.println("    - " + name + " ("+ specialization + ")");
+        System.out.println("                - " + name + " ("+ specialization + ")");
     }
 }
